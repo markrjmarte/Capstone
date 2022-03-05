@@ -2,8 +2,7 @@ import streamlit as st
 from db_fxns import * 
 import pandas as pd
 
-import plotly.express as px 
-import webbrowser
+
 
 import requests
 from streamlit_lottie import st_lottie
