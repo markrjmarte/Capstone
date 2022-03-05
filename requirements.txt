@@ -1,0 +1,6 @@
+streamlit==0.72.0
+pandas == 1.4.1.
+requests==2.27.1
+streamlit-lottie==0.0.3
+plotly-express ==0.4.1
+sql-connector-python==3.10.2
